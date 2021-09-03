@@ -21,4 +21,12 @@ There's something for everyone in the **Windy** City. Spend a day at Navy Pier o
 
 [AboutMe](https://github.com/ajaykumarvemula/assignment2-Vemula/blob/main/AboutMe.md)
 
+---
 
+# Food items
+| Food | Location | price |
+| :---: | :---: | :---: |
+| Chicken Wings | Texas | $5 |
+| Biryani | Chicago | $12 |
+| prawns fry | kansas | $7 |
+| Chicken burger | Denton | $3|
