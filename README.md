@@ -14,4 +14,9 @@ There's something for everyone in the **Windy** City. Spend a day at Navy Pier o
     1. Maryville to kansas city (MCI)
     2. Kansas city to chicago (ORD)
 
+- Clothes
+- Food
+- jewellery
+- money
+
 
