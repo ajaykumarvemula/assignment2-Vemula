@@ -30,3 +30,11 @@ There's something for everyone in the **Windy** City. Spend a day at Navy Pier o
 | Biryani | Chicago | $12 |
 | prawns fry | kansas | $7 |
 | Chicken burger | Denton | $3|
+
+---
+
+# Pithy Quotations
+>*if you must be mad, be it not for the things of the world. Be mad with the love of God.*
+>*One must be very particular about telling the truth. Through truth one can realize God.*
+> - by **Ramakrishna paramahamsa.**
+
