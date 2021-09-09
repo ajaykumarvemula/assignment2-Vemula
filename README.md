@@ -72,3 +72,16 @@ double sqr (double a) {
 
 ```
 [Link for code](https://cp-algorithms.com/geometry/tangents-to-two-circles.html)
+
+---
+
+# Hi there 👋
+- 👨‍🎓 I'm currently pursuing Master's at Northwest Missouri State University.
+- 📚 I'm currently learning Webapps with the help from Dr. Charles Hoot.
+- ❓ Any queries please ping me in Teams.
+
+ 
+---
+
+
+--->[Profile link](https://github.com/ajaykumarvemula)<--
